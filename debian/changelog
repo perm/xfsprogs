@@ -1,6 +1,6 @@
 xfsprogs (4.11.0-rax0) stable; urgency=low
 
- * Backporting to Ubuntu trusty from 4.11.0
+  * Backporting to Ubuntu trusty from 4.11.0
 
  -- Jonathan Brown <jbrown@rackspace.com>  Tue, 11 Jul 2017 13:13:38 +0000
  
